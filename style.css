@@ -1,0 +1,50 @@
+*{
+	background-color: #ffff65;
+}
+p{
+	font-family: times new roman;
+	color: green;
+}
+h3{
+	font-family: tmes new roman;
+	color: black;
+}
+#header{
+	text-transform: uppercase;
+	text-align: center;
+	color: green;
+	font: 20px;
+	font-weight: 700;
+	font-family: trajan;
+}
+
+#subhead{
+ text-align: center;
+ color: green;
+
+}
+#subhead span{
+	color:#111;
+}
+#subhead blockquote{
+	text-transform: uppercase;
+	color: #000;
+	text-decoration: underline;
+	
+}
+marquee {
+	color: green;
+}
+table{
+	text-align: center;
+	border: 10px;
+	border-style: solid;
+	border-color: red;
+
+}
+table tr{
+border-color: red;
+}
+table tr th{
+border-color: red;
+}
